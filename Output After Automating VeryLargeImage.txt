@@ -1,0 +1,315 @@
+IMAGE NAME: VeryLargeImage
+Original Image Size: (9000, 12000)
+Space it takes: 108000000
+
+
+
+K = 1
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 1)
+Sigma Compressed Dimensions: (1, 1)
+VT Compressed Dimensions: (1, 12000)
+Space: 21001
+Percent increase or decrease: -99.98055462962962
+
+_________________________________
+
+K = 2
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 2)
+Sigma Compressed Dimensions: (2, 2)
+VT Compressed Dimensions: (2, 12000)
+Space: 42004
+Percent increase or decrease: -99.96110740740741
+
+_________________________________
+
+K = 3
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 3)
+Sigma Compressed Dimensions: (3, 3)
+VT Compressed Dimensions: (3, 12000)
+Space: 63009
+Percent increase or decrease: -99.94165833333334
+
+_________________________________
+
+K = 4
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 4)
+Sigma Compressed Dimensions: (4, 4)
+VT Compressed Dimensions: (4, 12000)
+Space: 84016
+Percent increase or decrease: -99.9222074074074
+
+_________________________________
+
+K = 5
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 5)
+Sigma Compressed Dimensions: (5, 5)
+VT Compressed Dimensions: (5, 12000)
+Space: 105025
+Percent increase or decrease: -99.90275462962963
+
+_________________________________
+
+K = 6
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 6)
+Sigma Compressed Dimensions: (6, 6)
+VT Compressed Dimensions: (6, 12000)
+Space: 126036
+Percent increase or decrease: -99.88329999999999
+
+_________________________________
+
+K = 7
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 7)
+Sigma Compressed Dimensions: (7, 7)
+VT Compressed Dimensions: (7, 12000)
+Space: 147049
+Percent increase or decrease: -99.86384351851851
+
+_________________________________
+
+K = 8
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 8)
+Sigma Compressed Dimensions: (8, 8)
+VT Compressed Dimensions: (8, 12000)
+Space: 168064
+Percent increase or decrease: -99.84438518518517
+
+_________________________________
+
+K = 9
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 9)
+Sigma Compressed Dimensions: (9, 9)
+VT Compressed Dimensions: (9, 12000)
+Space: 189081
+Percent increase or decrease: -99.824925
+
+_________________________________
+
+K = 10
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 10)
+Sigma Compressed Dimensions: (10, 10)
+VT Compressed Dimensions: (10, 12000)
+Space: 210100
+Percent increase or decrease: -99.80546296296296
+
+_________________________________
+
+K = 15
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 15)
+Sigma Compressed Dimensions: (15, 15)
+VT Compressed Dimensions: (15, 12000)
+Space: 315225
+Percent increase or decrease: -99.70812500000001
+
+_________________________________
+
+K = 20
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 20)
+Sigma Compressed Dimensions: (20, 20)
+VT Compressed Dimensions: (20, 12000)
+Space: 420400
+Percent increase or decrease: -99.61074074074074
+
+_________________________________
+
+K = 25
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 25)
+Sigma Compressed Dimensions: (25, 25)
+VT Compressed Dimensions: (25, 12000)
+Space: 525625
+Percent increase or decrease: -99.51331018518519
+
+_________________________________
+
+K = 30
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 30)
+Sigma Compressed Dimensions: (30, 30)
+VT Compressed Dimensions: (30, 12000)
+Space: 630900
+Percent increase or decrease: -99.41583333333334
+
+_________________________________
+
+K = 35
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 35)
+Sigma Compressed Dimensions: (35, 35)
+VT Compressed Dimensions: (35, 12000)
+Space: 736225
+Percent increase or decrease: -99.31831018518518
+
+_________________________________
+
+K = 40
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 40)
+Sigma Compressed Dimensions: (40, 40)
+VT Compressed Dimensions: (40, 12000)
+Space: 841600
+Percent increase or decrease: -99.22074074074074
+
+_________________________________
+
+K = 45
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 45)
+Sigma Compressed Dimensions: (45, 45)
+VT Compressed Dimensions: (45, 12000)
+Space: 947025
+Percent increase or decrease: -99.123125
+
+_________________________________
+
+K = 50
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 50)
+Sigma Compressed Dimensions: (50, 50)
+VT Compressed Dimensions: (50, 12000)
+Space: 1052500
+Percent increase or decrease: -99.02546296296296
+
+_________________________________
+
+K = 75
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 75)
+Sigma Compressed Dimensions: (75, 75)
+VT Compressed Dimensions: (75, 12000)
+Space: 1580625
+Percent increase or decrease: -98.53645833333333
+
+_________________________________
+
+K = 100
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 100)
+Sigma Compressed Dimensions: (100, 100)
+VT Compressed Dimensions: (100, 12000)
+Space: 2110000
+Percent increase or decrease: -98.0462962962963
+
+_________________________________
+
+K = 150
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 150)
+Sigma Compressed Dimensions: (150, 150)
+VT Compressed Dimensions: (150, 12000)
+Space: 3172500
+Percent increase or decrease: -97.0625
+
+_________________________________
+
+K = 200
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 200)
+Sigma Compressed Dimensions: (200, 200)
+VT Compressed Dimensions: (200, 12000)
+Space: 4240000
+Percent increase or decrease: -96.07407407407408
+
+_________________________________
+
+K = 250
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 250)
+Sigma Compressed Dimensions: (250, 250)
+VT Compressed Dimensions: (250, 12000)
+Space: 5312500
+Percent increase or decrease: -95.08101851851852
+
+_________________________________
+
+K = 300
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 300)
+Sigma Compressed Dimensions: (300, 300)
+VT Compressed Dimensions: (300, 12000)
+Space: 6390000
+Percent increase or decrease: -94.08333333333333
+
+_________________________________
+
+K = 400
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 400)
+Sigma Compressed Dimensions: (400, 400)
+VT Compressed Dimensions: (400, 12000)
+Space: 8560000
+Percent increase or decrease: -92.07407407407408
+
+_________________________________
+
+K = 500
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 500)
+Sigma Compressed Dimensions: (500, 500)
+VT Compressed Dimensions: (500, 12000)
+Space: 10750000
+Percent increase or decrease: -90.04629629629629
+
+_________________________________
+
+K = 1000
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 1000)
+Sigma Compressed Dimensions: (1000, 1000)
+VT Compressed Dimensions: (1000, 12000)
+Space: 22000000
+Percent increase or decrease: -79.62962962962963
+
+_________________________________
+
+K = 2000
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 2000)
+Sigma Compressed Dimensions: (2000, 2000)
+VT Compressed Dimensions: (2000, 12000)
+Space: 46000000
+Percent increase or decrease: -57.407407407407405
+
+_________________________________
+
+K = 4000
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 4000)
+Sigma Compressed Dimensions: (4000, 4000)
+VT Compressed Dimensions: (4000, 12000)
+Space: 100000000
+Percent increase or decrease: -7.4074074074074066
+
+_________________________________
+
+K = 5000
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 5000)
+Sigma Compressed Dimensions: (5000, 5000)
+VT Compressed Dimensions: (5000, 12000)
+Space: 130000000
+Percent increase or decrease: 20.37037037037037
+
+_________________________________
+
+K = 8000
+Compressed Image Size: (9000, 12000)
+U Compressed Dimensions: (9000, 8000)
+Sigma Compressed Dimensions: (8000, 8000)
+VT Compressed Dimensions: (8000, 12000)
+Space: 232000000
+Percent increase or decrease: 114.81481481481481
+
+_________________________________
